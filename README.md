@@ -1,5 +1,6 @@
 # library-node
 El objetivo de esta prueba técnica es evaluar habilidades en el desarrollo de una API RESTful utilizando Node.js, Express y Sequelize como ORM. Deberás implementar una serie de endpoints que permitan gestionar y consultar información relacionada con una biblioteca, incluyendo libros, categorías, sucursales, préstamos y promociones.
+![image](https://github.com/user-attachments/assets/5ebb38df-ff94-4733-9938-a0a7c52e6f9f)
 
 ### **Prueba Técnica Node.js con Express y Sequelize**
 
